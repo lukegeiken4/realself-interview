@@ -18,7 +18,7 @@ $ npm i
 $ npm run build
 $ npm run exe:justify
 ```
-All the justify "tests" will run in console
+All the justify "tests" from the file `scripts/justify.ts` will run.
 
 # Testing
 Checkout the file in `scripts/justify.ts`
