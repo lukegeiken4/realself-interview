@@ -1,0 +1,26 @@
+{
+  "name": "realself-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "exe:justify": "node dist/justify.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukegeiken4/realself-interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukegeiken4/realself-interview"
+  },
+  "homepage": "https://github.com/lukegeiken4/realself-interview#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^11.12.2",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.4.1"
+  }
+}
