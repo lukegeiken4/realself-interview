@@ -1,0 +1,26 @@
+# Interview Server
+
+Tech
+  - Node
+  - Typescript
+
+The jusified code in in the class TextFormatter in the `scripts/text-formatter.ts` file.
+There is some basic error handling in there that will throw errors:
+  - If the string is just spaces
+  - If the length given is not big enough to create a valid sentence without removing characters or combinings words without a space
+
+# Steps to run
+Make sure Node and NPM are up to date
+Clone in the repo
+```sh
+$ cd realself-interview
+$ npm i
+$ npm run build
+$ npm run exe:justify
+```
+All the justify "tests" will run in console
+
+# Testing
+Checkout the file in `scripts/justify.ts`
+You can insert in your own tests in there.
+Go ahead and use the runJusifyTest() to help format the tests and potential errors you might see if you input incorrect info
