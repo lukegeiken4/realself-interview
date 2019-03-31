@@ -21,6 +21,7 @@ $ npm run exe:justify
 All the justify "tests" from the file `scripts/justify.ts` will run.
 
 # Testing
-Checkout the file in `scripts/justify.ts`
+Checkout the file in `scripts/justify.ts`.
 You can insert in your own tests in there.
+
 Go ahead and use the runJusifyTest() to help format the tests and potential errors you might see if you input incorrect info
