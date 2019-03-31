@@ -14,7 +14,8 @@ There is some basic error handling in there that will throw errors:
   - If the length given is not big enough to create a valid sentence without removing characters or combinings words without a space
 
 # Steps to run
-Make sure Node and NPM are up to date
+**Make sure Node and NPM are up to date.**
+
 Clone in the repo
 ```sh
 $ cd realself-interview
