@@ -5,6 +5,10 @@ Tech
   - Typescript
 
 The jusified code in in the class TextFormatter in the `scripts/text-formatter.ts` file.
+
+As descripted in the problem. The code will justify the words based on the length given.
+If the spaces cannot be evenly distributed, then extra spaces will be added to words starting from the left-side.
+
 There is some basic error handling in there that will throw errors:
   - If the string is just spaces
   - If the length given is not big enough to create a valid sentence without removing characters or combinings words without a space
